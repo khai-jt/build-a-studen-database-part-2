@@ -175,3 +175,4 @@ touch student_info.sh
 chmod +x student_info.sh
 which bash
 ./student_info.sh
+SELECT first_name, last_name, gpa FROM students
