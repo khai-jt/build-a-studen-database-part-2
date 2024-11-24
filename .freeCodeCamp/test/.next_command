@@ -172,3 +172,4 @@ psql -U postgres < students.sql
 ls --color=auto
 psql --username=freecodecamp --dbname=postgres
 touch student_info.sh
+chmod +x student_info.sh
